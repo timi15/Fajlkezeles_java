@@ -1,0 +1,81 @@
+1;Fiú;Bognur Kapolcs;7/d
+2;Lány;Sulcz Klarissza;7/b
+3;Lány;Buzás Édua;7/c
+4;Lány;Vay Gertrúd Valentina;5/c
+5;Lány;Vadász Natália;6/b
+6;Fiú;Diószegi Holló;7/c
+7;Lány;Michalocski Kamélia;5/b
+8;Fiú;Bacsóka Jakab Szíriusz;7/c
+9;Lány;Stiblovszki Georgina;7/b
+10;Lány;Moós Mahália;5/a
+11;Lány;Sirásó Alfréda;6/c
+12;Fiú;Studurter Kenéz;5/d
+13;Fiú;Borbély Kenéz;7/c
+14;Lány;Pauleczki Kornélia;5/d
+15;Fiú;Veleczki Apostol;6/c
+16;Lány;Beloinszki Szibilla;8/a
+17;Fiú;Bálványosi Márton;5/d
+18;Fiú;Takács Celesztin Filomén;5/a
+19;Lány;Világi Nikolett;5/d
+20;Fiú;Komáromi Lévi;6/d
+21;Lány;Godó Ladiszla;6/d
+22;Fiú;Matylák Konstantin;7/d
+23;Fiú;Rabóczi Elmár;8/c
+24;Fiú;Bajzák Rigler Gellért;7/d
+25;Lány;Majoros Manon;8/b
+26;Lány;Üveges Alfréda;7/c
+76;Fiú;Kuremszki Fabó;8/c
+77;Lány;Beszpremi Belénszky Antonella;8/b
+78;Lány;Kupecz Irina;6/a
+79;Fiú;Csákó Germán;7/b
+80;Lány;Semsei Leonóra;7/d
+81;Fiú;Kossuth Rodion;5/b
+82;Lány;Viták Füzike;6/b
+83;Lány;Sveda Seherezádé;7/b
+84;Lány;Horgos Atália;7/a
+85;Lány;Tokos Maura;5/b
+86;Lány;Huszina Teodolinda;6/d
+87;Fiú;Martsek Anatol;6/b
+88;Lány;Rajnai Fiametta;8/c
+89;Lány;Keisler Sonkos Leona;5/a
+90;Fiú;Császár Tokár Seb1;Fiú;Bognur Kapolcs;7/d
+2;Lány;Sulcz Klarissza;7/b
+3;Lány;Buzás Édua;7/c
+4;Lány;Vay Gertrúd Valentina;5/c
+5;Lány;Vadász Natália;6/b
+6;Fiú;Diószegi Holló;7/c
+7;Lány;Michalocski Kamélia;5/b
+8;Fiú;Bacsóka Jakab Szíriusz;7/c
+9;Lány;Stiblovszki Georgina;7/b
+10;Lány;Moós Mahália;5/a
+11;Lány;Sirásó Alfréda;6/c
+12;Fiú;Studurter Kenéz;5/d
+13;Fiú;Borbély Kenéz;7/c
+14;Lány;Pauleczki Kornélia;5/d
+15;Fiú;Veleczki Apostol;6/c
+16;Lány;Beloinszki Szibilla;8/a
+17;Fiú;Bálványosi Márton;5/d
+18;Fiú;Takács Celesztin Filomén;5/a
+19;Lány;Világi Nikolett;5/d
+20;Fiú;Komáromi Lévi;6/d
+21;Lány;Godó Ladiszla;6/d
+22;Fiú;Matylák Konstantin;7/d
+23;Fiú;Rabóczi Elmár;8/c
+24;Fiú;Bajzák Rigler Gellért;7/d
+25;Lány;Majoros Manon;8/b
+26;Lány;Üveges Alfréda;7/c
+76;Fiú;Kuremszki Fabó;8/c
+77;Lány;Beszpremi Belénszky Antonella;8/b
+78;Lány;Kupecz Irina;6/a
+79;Fiú;Csákó Germán;7/b
+80;Lány;Semsei Leonóra;7/d
+81;Fiú;Kossuth Rodion;5/b
+82;Lány;Viták Füzike;6/b
+83;Lány;Sveda Seherezádé;7/b
+84;Lány;Horgos Atália;7/a
+85;Lány;Tokos Maura;5/b
+86;Lány;Huszina Teodolinda;6/d
+87;Fiú;Martsek Anatol;6/b
+88;Lány;Rajnai Fiametta;8/c
+89;Lány;Keisler Sonkos Leona;5/a
+90;Fiú;Császár Tokár Seb
